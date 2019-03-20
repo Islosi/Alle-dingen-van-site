@@ -1,0 +1,9 @@
+<HTML>
+<HEAD><TITLE>Druid Guide</TITLE></HEAD>
+<BODY> Druid level up table. <P>
+<TABLE>
+<TR><TD>Level</TD><TD>Proficiency</TD><TD>Features</TD><TD>Cantrips Known</TD><TD>1st</TD><TD>2nd</TD><TD>3rd</TD><TD>4rd</TD><TD>5th</TD><TD>6th</TD><TD>7th</TD><TD>8th</TD><TD>9th</TD></TR>
+<TR><TD>1st</TD><TD>+2</TD><TD>Druidic, Spellcasting</TD><TD>2</TD><TD>2</TD><TD>-</TD><TD>-</TD><TD>-</TD><TD>-</TD><TD>-</TD><TD>-</TD><TD>-</TD><TD>-</TD></TR>
+</TABLE>
+</body>
+</HTML>

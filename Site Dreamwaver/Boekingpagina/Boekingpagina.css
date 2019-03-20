@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: cornflowerblue
+}
+iframe:focus { 
+    outline: none;
+}
+
+iframe[seamless] { 
+    display: block;
+}
+div {height:500px;width: 500px;}

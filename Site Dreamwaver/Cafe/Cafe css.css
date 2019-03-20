@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: cornflowerblue
+}
+h1{
+	font-size: 64px ;
+	text-align: center;
+		
+}
+p{
+	font-size: 32px
+}
